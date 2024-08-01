@@ -1,0 +1,8 @@
+datasets==2.20.0
+ipykernel==6.29.5
+pandas==2.2.2
+peft==0.11.1
+torch==2.3.1
+transformers==4.42.4
+trl==0.9.6
+

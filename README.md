@@ -1,0 +1,1 @@
+This script fine tunes distil-bert model. It uses the dataset 'barilan/blog_authorship_corpus'. The goal is to recognize author's gender.
